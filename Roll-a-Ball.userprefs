@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{79532662-6CB0-6495-C171-CC9D02441CD7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/FollowPlayer.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerController.cs" Line="18" Column="1" />
+      <File FileName="Assets/Script/FollowPlayer.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Roll-a-Ball PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
